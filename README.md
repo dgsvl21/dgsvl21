@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diogo</h1>
+<h1 align="center">Hi everyone👋, I'm Diogo</h1>
 <h3 align="center">Trying to be a full stack developer</h3>
 
 - 🔭 I’m currently working on [Fisiodesk](https://www.fisiodesk.com/)
