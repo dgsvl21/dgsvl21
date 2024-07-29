@@ -1,13 +1,21 @@
-<h1 align="center">Hi everyone👋, I'm Diogo</h1>
-<h3 align="center">Trying to be a full stack developer</h3>
+<h1 align="center">Hi 👋, I'm Diogo</h1>
+<h3 align="center">Trying to be a good full stack developer</h3>
 
-- 🔭 I’m currently working on [Fisiodesk](https://www.fisiodesk.com/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dgsvl1&label=Profile%20views&color=0e75b6&style=flat" alt="dgsvl1" /> </p>
 
-- 🌱 I’m currently learning **.NET MAUI**
+- 🔭 I’m currently not working, but worked on [Webknology](https://webknology.pt/)
 
-- 💬 Ask me about **Java, C#, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **In-depth OOP languages**
 
-- ⚡ Fun fact **Love streetwear and football**
+- 👯 Developed code for [Fisiodesk Mobile](https://www.fisiodesk.com/)
+
+- 💬 Ask me about **Java, C#, HTML, CSS, JavaScript,.NET MAUI**
+
+- 📫 How to reach me **diogosilva_confirmacoes@hotmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/dgsvl21/](https://www.linkedin.com/in/dgsvl21/)
+
+- ⚡ Fun fact about me **love streetwear and football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
