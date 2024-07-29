@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, C#, HTML, CSS, JavaScript**
 
-- ⚡ Fun fact **Love streetwear and Football**
+- ⚡ Fun fact **Love streetwear and football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
