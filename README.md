@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgsvl1&label=Profile%20views&color=0e75b6&style=flat" alt="dgsvl1" /> </p>
 
-- 🔭 Not working currently, but worked on [Webknology](https://webknology.pt/)
+- 🔭 Currently not working, but worked on [Webknology](https://webknology.pt/)
 
 - 🌱 Learning **In-depth OOP languages and Flutter**
 
