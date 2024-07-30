@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgsvl1&label=Profile%20views&color=0e75b6&style=flat" alt="dgsvl1" /> </p>
 
-- 🔭 I’m currently not working, but worked on [Webknology](https://webknology.pt/)
+- 🔭 Not working currently, but worked on [Webknology](https://webknology.pt/)
 
-- 🌱 I’m currently learning **In-depth OOP languages**
+- 🌱 Learning **In-depth OOP languages and Flutter**
 
 - 👯 Developed code for [Fisiodesk Mobile](https://www.fisiodesk.com/)
 
