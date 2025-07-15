@@ -9,7 +9,7 @@
 
 - 👯 Developed code for [Fisiodesk Mobile](https://www.fisiodesk.com/)
 
-- 💬 Ask me about **Java, C#, HTML, CSS, JavaScript,.NET MAUI, SQL Server, API REST**
+- 💬 Ask me about **Java, C#, HTML, CSS, JavaScript, .NET MAUI, SQL Server, API REST**
 
 - 📫 How to reach me [Email](diogosilva_confirmacoes@hotmail.com)
 
