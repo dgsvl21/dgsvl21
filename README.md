@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Java, C#, HTML, CSS, JavaScript,.NET MAUI**
 
-- 📫 How to reach me **diogosilva_confirmacoes@hotmail.com**
+- 📫 How to reach me [Email](diogosilva_confirmacoes@hotmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dgsvl21/](https://www.linkedin.com/in/dgsvl21/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/dgsvl21/)
 
 - ⚡ Fun fact about me **love streetwear and football**
 
