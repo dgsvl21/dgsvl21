@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Diogo</h1>
-<h3 align="center">Trying to be a good full stack developer</h3>
+<h3 align="center">Persistence leads to Success</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgsvl1&label=Profile%20views&color=0e75b6&style=flat" alt="dgsvl1" /> </p>
 
-- 🔭 Currently not working, but worked on [Webknology](https://webknology.pt/)
+- 🔭 Currently studying computer engineering degree, but worked in [Webknology](https://webknology.pt/)
 
-- 🌱 Learning **In-depth OOP languages and Flutter**
+- 🌱 Learning **In-depth OOP**
 
 - 👯 Developed code for [Fisiodesk Mobile](https://www.fisiodesk.com/)
 
-- 💬 Ask me about **Java, C#, HTML, CSS, JavaScript,.NET MAUI**
+- 💬 Ask me about **Java, C#, HTML, CSS, JavaScript,.NET MAUI, SQL Server, API REST**
 
 - 📫 How to reach me [Email](diogosilva_confirmacoes@hotmail.com)
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/dgsvl21/)
 
-- ⚡ Fun fact about me **love streetwear and football**
+- ⚡ Fun fact about me **love streetwear, football and travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
