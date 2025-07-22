@@ -1,8 +1,6 @@
 <h1 align="center">Hi all, I'm Diogo</h1>
 <h3 align="center"><i>Persistence Leads to Success</i></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dgsvl1&label=Profile%20views&color=0e75b6&style=flat" alt="dgsvl1" /> </p>
-
 - 🔭 Currently studying computer engineering degree, but worked in [Webknology](https://webknology.pt/)
 
 - 🌱 Learning **In-depth OOP**
