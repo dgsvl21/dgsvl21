@@ -1,7 +1,7 @@
 <h1 align="center">Hi all, I'm Diogo</h1>
 <h3 align="center"><i>Persistence Leads to Success</i></h3>
 
-- 🔭 Currently studying computer engineering degree, but worked in [Webknology](https://webknology.pt/)
+- 🔭 Currently studying computer engineering degree, but worked in Webknology
 
 - 🌱 Learning **In-depth OOP**
 
