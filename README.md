@@ -3,11 +3,11 @@
 
 - 🔭 Currently studying computer engineering degree, but worked at Webknology and Sonae Arauco 
 
-- 🌱 Learning **In-depth OOP**
+- 🌱 Learning **In-depth OOP and Python**
 
 - 👯 Developed code for [Fisiodesk Mobile](https://www.fisiodesk.com/)
 
-- 💬 Ask me about **Java, C#, HTML, CSS, JavaScript, .NET MAUI, SQL Server, API REST**
+- 💬 Ask me about **Java, C#, HTML, CSS, .NET MAUI, SQL Server, API REST**
 
 - 📫 How to reach me [Email](diogosilva_confirmacoes@hotmail.com)
 
